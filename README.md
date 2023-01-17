@@ -23,13 +23,15 @@ This will build all the modules of the project.
 To run the project, navigate to the project directory and run the following command:
 ```sh
 make clean
-
+```
 This will execute all the modules of the project.
 
 ### Cleaning the Project
 To clean the project, navigate to the project directory and run the following command:
 ```sh
 make clean
+```
+
 This will remove all the executables of the modules in the project.
 
 **Note**
