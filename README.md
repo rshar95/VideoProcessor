@@ -22,7 +22,7 @@ This will build all the modules of the project.
 
 To run the project, navigate to the project directory and run the following command:
 ```sh
-make clean
+make run
 ```
 This will execute all the modules of the project.
 
