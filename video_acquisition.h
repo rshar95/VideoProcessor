@@ -1,3 +1,14 @@
+/**
+ * Video Acquisition module
+ * This module is responsible for acquiring video streams from youtube and handle it's properties
+ * @param filename: The name of the video file to be read
+ * @param fps: The frames per second of the video
+ * @param width: The width of the video frame
+ * @param height: The height of the video frame
+ * @return: return -1 in case of error in opening the video file
+ */
+
+
 #include <iostream>
 #include <curl/curl.h>
 #include <json/json.h>
