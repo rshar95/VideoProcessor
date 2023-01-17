@@ -42,7 +42,7 @@ Contribution
 This project is open-source and welcomes contributions from the community. If you would like to contribute, please reach out to the developer or project maintainer.
 
 ## Author
-[Richa Sharma](https://github.com/rshar95)
+[Richa Sharma](https://richasharma.xyz)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
