@@ -15,6 +15,7 @@ This project is a system that processes and analyzes video streams from YouTube 
 To build the project, navigate to the project directory and run the following command:
 ```sh
 make all
+```
 This will build all the modules of the project.
 
 ### Running the Project
