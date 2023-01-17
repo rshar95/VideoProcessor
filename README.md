@@ -41,10 +41,10 @@ If you're facing any issues, please reach out to the developer or project mainta
 Contribution
 This project is open-source and welcomes contributions from the community. If you would like to contribute, please reach out to the developer or project maintainer.
 
-**License**
-The project is licensed under the MIT License.
+## Author
+[Richa Sharma](https://github.com/rshar95)
 
-**Contact**
-If you have any questions or feedback, please reach out to the developer or project maintaine
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
