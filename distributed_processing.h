@@ -1,3 +1,11 @@
+/**
+ * Distributed processing module
+ * This module is responsible for distributing the workload of video processing among multiple machines using MPI
+ * @param total_work: The total amount of work to be done
+ * @param result: The result of the task
+ * @return: void
+ */
+
 #include <iostream>
 #include <mpi.h>
 
