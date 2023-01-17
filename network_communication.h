@@ -1,3 +1,20 @@
+/**
+ * This code uses the RDMA library to create a new connection, bind it to a local address and port,listens for incoming connections,
+ * and accept an incoming connection. The example also shows how to create a new queue pair, register a memory region, and use RDMA 
+ * write operation to transfer data over the network. 
+ * 
+ * It's important to note that this is a simple example and in a real-world application, you would need to handle errors, timeouts, and
+ * disconnections. Also, you may need to adjust the code to fit your specific use case, such as handling different data types or implementing 
+ * more advanced communication patterns.
+ *
+ * It's also important to note that this code is using the librdmacm library, this library is a user-space library that provides 
+ * communication management services to the verbs API, it's not built-in to the operating system and it needs to be installed before using it.
+
+
+ **/
+
+
+
 #include <iostream>
 #include <rdma/rdma_cma.h>
 
